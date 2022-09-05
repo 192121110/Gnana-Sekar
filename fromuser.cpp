@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a,b,c,d,e,f,g;
+	cout<<"enter the number :";
+	cin>>a;
+	cout<<"enter the number :";
+	cin>>b;
+	c=a+b;
+	cout<<c;
+}
